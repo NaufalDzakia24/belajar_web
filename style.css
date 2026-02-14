@@ -1,0 +1,7 @@
+.html {
+  color: red;
+}
+
+.html :hover {
+  color: rgb(39, 194, 11);
+}
